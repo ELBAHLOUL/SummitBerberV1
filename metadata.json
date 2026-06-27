@@ -1,0 +1,6 @@
+{
+  "name": "SummitBerber V1",
+  "description": "A professional tool for hiking guides to document trail conditions, track expedition metrics, and generate print-ready PDF reports offline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

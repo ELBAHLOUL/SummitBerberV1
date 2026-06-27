@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SummitBerber V1</string>
+    <string name="home">Home</string>
+    <string name="new_report">New Report</string>
+    <string name="history">History</string>
+    <string name="settings">Settings</string>
+    <string name="hello_guide">Hello, Guide!</string>
+</resources>
